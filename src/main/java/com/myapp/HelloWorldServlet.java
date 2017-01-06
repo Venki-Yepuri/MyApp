@@ -27,7 +27,7 @@ public class HelloWorldServlet extends GenericServlet {
 		logger.error("Yepuriiiiiiiiiiiiiiiiiiiiiiiiiiii");
 		logger.error("=========================================");
 		logger.debug("|||||||||||||||||||||||||||||||||||||||||||");
-		logger.debug("Venkiiiiiiiiiiiiiiiiiii   Yepuriiiiiiiiiiiiiiiiiiiiiiiii");
+		logger.debug("Venkiiiiiiiiiiiiiiiiiii  Yepuriiiiiiiiiiiiiiiiiiiiiiiii");
 		logger.debug("|||||||||||||||||||||||||||||||||||||||||||");
 		
 		System.out.println("=====================From Sys Out=================");
